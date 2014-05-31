@@ -1,0 +1,12 @@
+[submodule "monit"]
+	path = monit
+	url = https://github.com/arnaudsj/monit.git
+[submodule "god"]
+	path = god
+	url = https://github.com/mojombo/god.git
+[submodule "nagios"]
+	path = nagios
+	url = git://git.code.sf.net/p/nagios/nagioscore
+[submodule "awstats"]
+	path = awstats
+	url = https://github.com/awstats-mirror/awstats.git
